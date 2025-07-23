@@ -1,1 +1,1 @@
-# 10-days-of-javascript
+# Solve Me First
